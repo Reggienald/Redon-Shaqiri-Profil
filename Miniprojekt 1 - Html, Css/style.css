@@ -1,0 +1,88 @@
+*{
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+a:hover {
+    color: red;
+}
+
+img[src*="scontent"] {
+    height: 50%;
+    width: 20%;
+}
+
+p{
+    color: orange;
+    background-color: crimson;
+}
+    
+.Startsida {
+    border: none;
+    text-decoration: none;
+    font-size: 3rem;
+    font-weight: bold;
+    padding-left: 30%;
+    color: rgb(255, 51, 0);
+}
+
+em{
+    border: none;
+}
+
+.citat {
+    background-color: black;
+    color: orange;
+    font-family: 'Times New Roman', Times, serif; 
+}
+
+.Punktform {
+    color: red;
+    text-transform: uppercase;
+}
+
+img {
+    border: none;
+    width: 30%;
+    height: 500px;
+
+}
+
+h1{
+    color: darkblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h2{
+    color: darkred;
+}
+
+.Rubrikerh3 {
+    background-color: gray;
+}
+
+h3{
+    color: darkgreen;
+}
+
+#Aliciakeys {
+    border: none;
+    font-style: oblique;
+}
+
+#Cristi {
+    border: none;
+    font-style: oblique;
+}
+
+#Arnold {
+    border: none;
+    font-style: oblique;
+}
+
+.Form {
+    border: 1px solid black;
+    font-size: 150%;
+    margin-right: 250mm;
+}
